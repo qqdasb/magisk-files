@@ -2,11 +2,11 @@
   "magisk": {
     "version": "R6687BB53-kitsune",
     "versionCode": "27001",
-    "link": "https://hub.xb6868.com/HuskyDG/magisk-files/raw/main/app-release.apk",
-    "note": "https://hub.xb6868.com/HuskyDG/magisk-files/raw/main/note.md"
+    "link": "https://raw.xb6868.com/HuskyDG/magisk-files/main/app-release.apk",
+    "note": "https://raw.xb6868.com/HuskyDG/magisk-files/main/note.md"
   },
   "stub": {
     "versionCode": "38",
-    "link": "https://github.xb6868.com/HuskyDG/magisk-files/raw/main/stub-release.apk"
+    "link": "https://raw.xb6868.com/HuskyDG/magisk-files/main/stub.apk"
   }
 }
